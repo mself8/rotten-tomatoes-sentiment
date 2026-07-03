@@ -1,0 +1,10 @@
+glove.*
+*.tsv
+*.zip
+*.npy
+_dev_out/
+Output_*.csv
+sampleSubmission.csv
+report.pdf
+__pycache__/
+*.pyc
